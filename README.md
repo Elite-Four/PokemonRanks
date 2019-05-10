@@ -1,2 +1,2 @@
 # PokemonRanks
-Share Pokemon Ranks on Pokemon Global Link to Instagram daily.
+Share Pokemon Ranks on Pokemon Global Link to Weibo daily.
